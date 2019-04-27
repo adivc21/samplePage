@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(rgba(209, 129, 25, 0.8), rgba(36, 72, 172, 0.7)),
+    url(../assets/phone.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #ccc !important;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bolder;
+  font-size: 70px;
+  letter-spacing: 4px;
+}
+
+footer {
+  margin-top: 7em;
+  text-align: center;
+  font-size: 0.6em;
+  padding: 0.5em 0em;
+}
+
+footer a {
+  color: #ccc;
+}
+
+.logo {
+  margin-top: 15px;
+  height: 80px;
+  width: 80px;
+}
+
+.heading {
+  margin: 90px auto;
+}
+
+.half {
+  height: 15vw;
+  width: 25vw;
+}
+
+.info {
+  margin-top: 10vh;
+  letter-spacing: 2px;
+}
+
+.social {
+  margin-top: 5em;
+  float: right;
+}
+
+.contact {
+  height: 3em;
+  width: 3em;
+  opacity: 0.7;
+}
+
+.contact:hover {
+  opacity: 1;
+}
