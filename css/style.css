@@ -29,6 +29,10 @@ footer a {
   color: #ccc;
 }
 
+footer a:hover {
+  color: #ccc;
+}
+
 .logo {
   margin-top: 15px;
   height: 80px;
@@ -40,12 +44,12 @@ footer a {
 }
 
 .half {
-  height: 15vw;
-  width: 25vw;
+  height: 12em;
+  width: 20em;
 }
 
 .info {
-  margin-top: 10vh;
+  margin-top: 3em;
   letter-spacing: 2px;
 }
 
